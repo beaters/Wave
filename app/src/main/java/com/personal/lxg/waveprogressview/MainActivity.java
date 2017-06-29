@@ -8,7 +8,10 @@ import android.view.View;
 import android.view.animation.AccelerateInterpolator;
 import android.view.animation.BounceInterpolator;
 import android.view.animation.LinearInterpolator;
-
+/**
+ * @Author liuxigang lxgvisual@163.com
+ *
+ *
 public class MainActivity extends AppCompatActivity {
 
     private WaveProgressView waveProgressView_0, waveProgressView_1, waveProgressView_2;
